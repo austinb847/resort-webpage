@@ -1,7 +1,30 @@
 body {
   text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: 13 px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
 
 p {
   text-align: left;
+}
+
+#page {
+  margin: 0 auto 0 auto;
+  margin-top: 40px;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  width: 738px;
+}
+
+
+
+#navBar{
+  height: 55px;
+  line-height: 55px;
+  width: 750px;
 }
